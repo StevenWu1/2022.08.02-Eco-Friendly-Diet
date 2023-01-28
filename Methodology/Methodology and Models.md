@@ -1,7 +1,7 @@
 We introduce a framework for recommending environment-friendly diets for average Americans and forecasting the effectiveness of such an approach if it is widely accepted by society. This framework consists of the following major steps: diet optimization, prediction of individual food consumption and US population forecast. 
 
 
-![image](framework.png "Diet Recommendation and Prediction of CO2 Emission Reduction")
+![image](framework.PNG "Diet Recommendation and Prediction of CO2 Emission Reduction")
 
 - Linear Programming based Diet Optimization: 
 
