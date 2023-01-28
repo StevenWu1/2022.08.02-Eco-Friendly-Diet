@@ -1,6 +1,8 @@
 Firstly, we analyze the impact of food production on CO2 emission and identify the key contributors to CO2 emission during the Food Production process. Figure 1 displays a bar chart on CO2 footprint by food type. Among all the food types, beef ranks the top position in their CO2 emission footprint. The other meat types such as lamb, shrimp, pork and poultry follow the beef with much lower CO2 emission. 
 
 
+![figure1](./Methodology/figure1.PNG)
+
 Secondly, we can take a look at the dietary structure of US people from 1970 to 2020, which is shown in Figure 2. Vegetables and fruits occupy the majority quantities in average dietary structure. Given their very low CO2 emission footprint, it is a good choice for Americans to have more vegetables and fruits in their plate. The major problem is the large quantity of beef consumption because beef’s extremely high CO2 emission footprint. Although the consumption of beef seems to drop from the 1980s, it is still much higher than any other meat types. This observation indicates that we should keep improving our dietary structure, especially lower beef consumption to significantly reduce the environmental impact of beef-related food production. 
 
 
