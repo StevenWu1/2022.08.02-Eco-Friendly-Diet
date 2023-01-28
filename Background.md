@@ -14,3 +14,8 @@ Gephart et al [1] formulate diet optimization as Sitgler’s problem, which inte
 
 
 Although these recommendations are consistent with the recent advocating for improving the sustainability of diets in high-income countries, the limitation of these efforts is obvious. It is extremely difficult to encourage people to completely give up beef eating and only have plant-based food. Moreover, such a radical dietary change is not culturally acceptable and may bring extra financial burdens on low-income families due to high prices on fresh vegetables and fruits. Therefore, a more realistic dietary solution should be considered by replacing beef with chicken in a gradual way.
+
+
+[1] Gephart JA, Davis KF, Emery KA, Leach AM, Galloway JN, Pace ML. The environmental cost of subsistence: optimizing diets to minimize footprints. Science of the Total Environment. 2016 May 15;553:120-7.
+[2] Harwatt, H., Sabaté, J., Eshel, G., Soret, S. and Ripple, W., 2017. Substituting beans for beef as a contribution toward US climate change targets. Climatic Change, 143(1), pp.261-270.
+
